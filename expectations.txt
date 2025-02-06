@@ -1,3 +1,5 @@
 I expect myself to be able to learn git and github and apply it to future projects.
 I expect myself to have a hard time using javascript because i don't link it.
 I expect myself to have fun while learning web programming.
+
+Reyes comments: I agree on not liking JavaScript I feel that it is quite a confusing language that has a lot of syntax. and I also agree on having fun on web development, because I would like to make something that is my own and desgin it based on my likes.
