@@ -1,0 +1,3 @@
+I expect myself to be able to learn git and github and apply it to future projects.
+I expect myself to have a hard time using javascript because i don't link it.
+I expect myself to have fun while learning web programming.
